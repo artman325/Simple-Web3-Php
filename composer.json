@@ -12,7 +12,12 @@
             "homepage": "https://github.com/drlecks/Simple-Web3-Php"
         }
     ],
-
+    "repositories": [
+        {
+            "type": "github",
+            "url": "https://github.com/artman325/Simple-Web3-Php"
+        }
+    ],
     "require": { 
 		"web3p/rlp": "0.3.4",
         "kornrunner/ethereum-offline-raw-tx": "^0.4.0",
